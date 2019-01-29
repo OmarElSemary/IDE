@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.8.1)
+  - ExpyTableView (1.0)
+  - ImageSlideshow (1.7.0):
+    - ImageSlideshow/Core (= 1.7.0)
+  - ImageSlideshow/Core (1.7.0)
+  - Kingfisher (5.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - ExpyTableView
+  - ImageSlideshow (~> 1.6)
+  - Kingfisher (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ExpyTableView
+    - ImageSlideshow
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  ExpyTableView: 75fe6494d4613fd3dc4bd965cce6e14cec7e2223
+  ImageSlideshow: f8eec5e37a980f60923b585ff23b0e140fd24018
+  Kingfisher: fcec238063d17404fca89bf0a850583211c4cbf6
+
+PODFILE CHECKSUM: 135ac724e954b983806b920e54ae1073d10ac8f7
+
+COCOAPODS: 1.6.0.beta.1
